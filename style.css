@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 /* Eventify, Responsive HTML5 Event Template */
 /* CSS Document */
 /* Version 1.0 - Mon, 25 Nov 2013 15:25:52 -0600 */
@@ -15,7 +15,7 @@
 		url('Bariol.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
-}
+}m
 
 @font-face {
 	font-family: 'Bariol';
